@@ -1,0 +1,6 @@
+git add .
+
+q
+qqqqqqqqqqq
+git add .
+r GitHub para alojar repositorios en remoto.
